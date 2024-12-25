@@ -2,6 +2,8 @@
 
 A modern, customizable Next.js application for collecting event feedback and automatically generating AI-powered testimonials.
 
+![Testimonial Generator Interface](./public/testimonial_gen.png)
+
 ## Features
 
 - 📝 Comprehensive event feedback form with multiple sections:
